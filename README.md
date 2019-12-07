@@ -6,11 +6,10 @@ Engineers - Homework Problem
 Security Engineer, For all Engineers - Homework Problem.txt
 Timelimit: (3 hours) Truth: This was quite fun and educational, I went over the time limit.
 
-Submit to: jordyn.goffo@stitchfix.com
 
 Security Engineer, For all Engineers - Homework Problem - 12/2019
 Royal C. Jackson Jr.
-Stitch_Fix_\00_Stitch_Fix_Repository
+Repository
 
 Prerequites:
 
