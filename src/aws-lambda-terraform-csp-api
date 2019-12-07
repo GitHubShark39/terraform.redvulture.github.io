@@ -1,0 +1,5 @@
+
+resource "aws_api_gateway_rest_api" "aws-lambda-terraform-csp-api" {
+  name        = "aws-lambda-terraform-csp-api"
+  description = "This is my API for demonstration purposes"
+}

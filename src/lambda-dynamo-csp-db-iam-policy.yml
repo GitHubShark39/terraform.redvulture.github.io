@@ -1,0 +1,38 @@
+
+{
+    "Version": "2019-12-06",
+    "Statement": [
+        {
+            "Action": [
+                "logs:Create*",
+                "logs:Describe*",
+                "logs:Get*",
+                "logs:Put*"
+            ],
+            "Resource": "arn:aws:logs:us-east-1:123456789012:log-group:/csp*",
+            "Effect": "Allow"
+        },
+        {
+            "Action": [
+                "cloudwatchlog:DescribeLogGroups",
+                "cloudwatchlog:DescribeLogStreams",
+                "cloudwatchlog:GetLogEvents"
+            ],
+            "Resource": "*",
+            "Effect": "Allow"
+        },
+        {
+            "Action": [
+                "dynamodb:GetItem",
+                "dynamodb:BatchGetItem",
+                "dynamodb:Query",
+                "dynamodb:Scan",
+                "dynamodb:DescribeTable",
+                "dynamodb:PutItem",
+                "dynamodb:UpdateItem"
+            ],
+            "Resource": "arn:aws:dynamodb:us-east-1:123456789012:table/csp*",
+            "Effect": "Allow"
+        }
+    ]
+}
