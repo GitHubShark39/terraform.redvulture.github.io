@@ -1,6 +1,0 @@
-from:	Jordyn Goffo <jordyn.goffo@stitchfix.com>
-to:	blackshark37@gmail.com
-date:	Dec 4, 2019, 3:53 PM
-subject:	Follow Up from Stitch Fix - Take Home Project - DevSecOPS Engineer - Royal Jackson
-mailed-by:	gh-mail.stitchfix.com
-signed-by:	gh-mail.stitchfix.com
