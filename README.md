@@ -26,7 +26,9 @@ is 0.12.17. You can update by downloading from www.terraform.io
 C:\Users\redvulture>
 ------------------------------------
 git repository: 
+
 git clone command: git clone https://github.com/terraform-providers/terraform-provider-aws.git
+
 git clone command: git clone https://github.com/GitHubShark39/terraform.redvulture.github.io.git
 
 
@@ -185,43 +187,6 @@ https://help.github.com/en/github/setting-up-and-managing-your-github-user-accou
 
 
 
-C:\00_Stitch_Fix_Repository>ls -lt
-total 16192
-drwxr-xr-x  2 redvulture Administrators     4096 Dec  6 20:26 src
--rw-r--r--  1 redvulture Administrators     6802 Dec  6 20:26 SearchOn Homework Problem.txt
-drwxr-xr-x  2 redvulture Administrators     8192 Dec  6 20:22 images
-drwxr-xr-x 10 redvulture Administrators     4096 Dec  6 20:11 terraform-provider-aws
--rw-r--r--  1 redvulture Administrators 16502815 Dec  6 18:57 terraform_0.12.17_windows_amd64.zip
--rw-r--r--  1 redvulture Administrators      264 Dec  5 15:40 Jordyn Goffo.txt
--rw-r--r--  1 redvulture Administrators     2486 Dec  5 15:29 Homework.txt
--rw-r--r--  1 redvulture Administrators    14999 Dec  5 13:41 Stitch Fix - Take Home Project v2.docx
--rw-r--r--  1 redvulture Administrators    15000 Dec  5 13:35 Stitch Fix - Take Home Project v2.bak
--rw-r--r--  1 redvulture Administrators    13860 Dec  5 13:33 Stitch Fix - Take Home Project.docx
--rw-r--r--  1 redvulture Administrators     3226 Dec  5 13:32 SECURITY-SecurityEngineer_ForallEngineers-Homework-070819-2208.pdf
 
-C:\00_Stitch_Fix_Repository>
-
-
-
-
-C:\00_Stitch_Fix_Repository\src>ls -lt
-total 19
--rw-r--r-- 1 redvulture Administrators  149 Dec  6 20:26 Route.js
--rw-r--r-- 1 redvulture Administrators  280 Dec  6 20:26 index.js
--rw-r--r-- 1 redvulture Administrators 1020 Dec  6 20:14 lambda.tf
--rw-r--r-- 1 redvulture Administrators  278 Dec  6 20:12 main.js
--rw-r--r-- 1 redvulture Administrators  274 Dec  6 20:10 README.md
--rw-r--r-- 1 redvulture Administrators  111 Dec  6 20:10 hello_lambda.py
--rw-r--r-- 1 redvulture Administrators 1066 Dec  6 20:10 main.tf
--rw-r--r-- 1 redvulture Administrators   79 Dec  6 20:10 outputs.tf
--rw-r--r-- 1 redvulture Administrators  112 Dec  6 20:10 variables.tf
--rw-r--r-- 1 redvulture Administrators 1205 Dec  6 20:06 csp-report-uri-lambda.js
--rw-r--r-- 1 redvulture Administrators  182 Dec  6 19:57 aws-lambda-terraform-csp-api
--rw-r--r-- 1 redvulture Administrators 1081 Dec  6 19:46 lambda-dynamo-csp-db-iam-policy.yml
--rw-r--r-- 1 redvulture Administrators 1934 Dec  6 19:34 terraform commands.txt
--rw-r--r-- 1 redvulture Administrators  692 Dec  6 19:31 CSP_Sample_violation_report.css
--rw-r--r-- 1 redvulture Administrators  249 Dec  6 19:31 CSP_Sample_violation_report.html
-
-C:\00_Stitch_Fix_Repository\src>
 
 
